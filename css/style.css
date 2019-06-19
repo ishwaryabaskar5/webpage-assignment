@@ -1,0 +1,143 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #b4966e;
+}
+
+.header {
+    width: 100%;
+    height: 13%;
+    background-color: #744c17;
+    position: fixed;
+    top: 0%;
+}
+
+ul {
+    margin-top: 2rem;
+    float: right;
+    margin: 0%;
+    padding-top: 3.5rem;
+    padding-right: 3rem;
+}
+
+li {
+    display: inline;
+    padding-left: 1rem;
+}
+
+li a {
+    color: #e8bb41;
+    text-decoration: none;
+}
+
+.shopping-icon {
+    width: 3rem;
+    height: 3rem;
+    padding: 2rem 2rem 2rem 0;
+}
+
+#swiggy {
+    padding-left: 8rem;
+}
+
+#logo {
+    height: 100%;
+    float: left;
+}
+
+p {
+    padding: 0%;
+}
+
+.hero-image {
+    margin-top: 7%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/hero-img.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-image p {
+    margin: 0%;
+    color: #e8bb41;
+    text-transform: 1px 1px 10px #e9d191;
+    font-size: 3rem;
+    font-style: italic;
+    padding-left: 6rem;
+    width: 15rem;
+    padding-top: 8rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.card img {
+    align-self: center;
+    padding: 1rem 6rem;
+    width: 15rem;
+}
+
+.card div {
+    background-color: #744c17;
+    height: 90px;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.bev-name {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    color: #e8bb41;
+}
+
+.price {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    padding-left: 9rem;
+    color: #e8bb41;
+}
+
+.rating {
+    font-size: 1rem;
+    line-height: 1.6rem;
+    color: #e8bb41;
+}
+
+#shop {
+    padding: 1rem 2rem 0 3.4rem;
+}
+
+.para {
+    padding-top: 1rem;
+    padding-right: 3.4rem;
+}
+
+.footer-class {
+    background-color: #744c17;
+    display: flex;
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.contact {
+    padding: 1rem 50rem 0 3.4rem;
+}
+
+.social-media{
+    padding-top:1rem;
+}
+.social-media span{
+    line-height: -2rem;
+}
