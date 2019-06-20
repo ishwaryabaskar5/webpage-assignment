@@ -1,0 +1,11 @@
+404.html
+browserconfig.xml
+doc
+*.txt
+*.png
+js
+site.webmanifest
+.editorconfig
+.gitattributes
+favicon.ico
+.htaccess
