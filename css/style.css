@@ -6,7 +6,7 @@ body {
     background-color: #b4966e;
 }
 
-.header {
+.header-section {
     width: 100%;
     height: 13%;
     background-color: #744c17;
@@ -67,6 +67,10 @@ p {
     font-style: italic;
     padding-left: 6rem;
     width: 15rem;
+    
+}
+
+.hero-image p:first-child{
     padding-top: 8rem;
 }
 
@@ -109,6 +113,7 @@ p {
 }
 
 .rating {
+    margin-top: .4rem;
     font-size: 1rem;
     line-height: 1.6rem;
     color: #e8bb41;
