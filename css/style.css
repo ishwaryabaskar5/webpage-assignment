@@ -63,7 +63,6 @@ p {
 .hero-image p {
     margin: 0%;
     color: #e8bb41;
-    text-transform: 1px 1px 10px #e9d191;
     font-size: 3rem;
     font-style: italic;
     padding-left: 6rem;
@@ -137,7 +136,4 @@ p {
 
 .social-media{
     padding-top:1rem;
-}
-.social-media span{
-    line-height: -2rem;
 }
